@@ -1,7 +1,7 @@
 # 模块API配置
 # Censys可以免费注册获取API：https://censys.io/api
-censys_api_id = ''
-censys_api_secret = ''
+censys_api_id = 'c553c4c0-d0fc-4cdd-9d51-be34146b8c18'
+censys_api_secret = 'k8Dm7b3ddiDsKhgtDjyOksdmsA3P8lHk'
 
 # Binaryedge可以免费注册获取API：https://app.binaryedge.io/account/api
 # 免费的API有效期只有1个月，到期之后可以再次生成，每月可以查询250次。
@@ -11,19 +11,19 @@ binaryedge_api = ''
 bevigil_api = ''
 
 # Chinaz可以免费注册获取API：http://api.chinaz.com/ApiDetails/Alexa
-chinaz_api = ''
+chinaz_api = '55d4868f229f4c58ba0405877b0d796e'
 
 # Bing可以免费注册获取API：https://azure.microsoft.com/zh-cn/services/
 # cognitive-services/bing-web-search-api/#web-json
-bing_api_id = ''
-bing_api_key = ''
+bing_api_id = 'db4b9ece-880a-49a9-8b1c-81f3983fab85'
+bing_api_key = '05fd53e18e1145f6ae6232f0875b714b'
 
 # SecurityTrails可以免费注册获取API：https://securitytrails.com/corp/api
-securitytrails_api = ''
+securitytrails_api = '7FSEr7tpYCUlO4pWfpVYU95XAWZY4n7i'
 
 # https://fofa.so/api
-fofa_api_email = ''  # fofa用户邮箱
-fofa_api_key = ''  # fofa用户key
+fofa_api_email = '2018320187@qq.com'  # fofa用户邮箱
+fofa_api_key = '8a3ca739416845794056161746e12e38'  # fofa用户key
 
 # Google可以免费注册获取API:
 # 免费的API只能查询前100条结果
@@ -41,7 +41,7 @@ riskiq_api_key = ''
 # 免费的API限速1秒查询1次
 shodan_api_key = ''
 # ThreatBook API 查询子域名需要收费 https://x.threatbook.cn/nodev4/vb4/myAPI
-threatbook_api_key = ''
+threatbook_api_key = 'ab54c8a02a534e3ea5e42624747f23e1aea1eb010edc494093979e5e589f4021'
 
 # VirusTotal可以免费注册获取API: https://developers.virustotal.com/reference
 virustotal_api_key = ''
@@ -71,8 +71,8 @@ passivedns_api_token = ''
 
 # Github Token可以访问https://github.com/settings/tokens生成,user为Github用户名
 # 用于子域接管和子域收集
-github_api_user = ''
-github_api_token = ''
+github_api_user = 'iwanglei1'
+github_api_token = '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'
 
 # obtain Cloudflare API key from https://dash.cloudflare.com/profile/api-tokens
 cloudflare_api_token = ''
@@ -85,7 +85,7 @@ fullhunt_api_key = ''
 
 
 # 登录quake之后可在个人中心获取key https://quake.360.net/quake/#/personal?tab=message
-quake_api_key = ''
+quake_api_key = 'c8020858-0828-4c5a-877c-adc129797d65'
 
 #https://www.racent.com/ctlog F2>Network抓包获取Token
 racent_api_token = ''
